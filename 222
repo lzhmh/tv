@@ -1,11 +1,11 @@
 {
-"spider":"https://raw.kgithub.com/lzhmh/tv/7cb502d5be3d779e22469974813ef014daa49252/222.jar",
+"spider":"https://raw.github.com/lzhmh/tv/7cb502d5be3d779e22469974813ef014daa49252/222.jar",
 
 "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcua2dpdGh1Yi5jb20vbHpobWgvdHYvN2NiNTAyZDViZTNkNzc5ZTIyNDY5OTc0ODEzZWYwMTRkYWE0OTI1Mi8yMjIudHh0"]}]}],
 
 //以下列表库
 "sites":[
-	    {"key":"快播云","name":"快播云 For Lzh's personal use.","type":0,"api":"http://www.kuaibozy.com/api.php/provide/vod/at/xml/","playUrl":"","categories":["国产剧","港台剧","日韩剧","欧美剧","泰剧","综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","纪录片"]},
+	    {"key":"快播云","name":"快播云1 For Lzh's personal use.","type":0,"api":"http://www.kuaibozy.com/api.php/provide/vod/at/xml/","playUrl":"","categories":["国产剧","港台剧","日韩剧","欧美剧","泰剧","综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","纪录片"]},
         {"key":"相声小品","name":"🅱️相声小品","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/Blixs.json"},
 	    {"key": "Bili","name": "Bili(爬虫)","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://dxawi.github.io/1/json/bili.json"},
 		{"key":"mjxq_spider","name":"美剧星球","type":3,"api":"csp_Mjxq","searchable":1,"quickSearch":1,"filterable":1},
